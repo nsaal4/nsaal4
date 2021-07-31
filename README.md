@@ -1,7 +1,12 @@
+<p align="center">
+  <img width="400" height="300" src="http://www.progarchives.com/forum/uploads/7615/eipi.jpg">
+</p>
+
+
 ## Hi there 👋 I'm Nour
  
 
-### 👨🏻‍💻 &nbsp;About Me
+#### 👨🏻‍💻 &nbsp;About Me
 
 <!-- - 🔭 I’m currently working on personal projects -->
 - 🌱 I’m currently learning backend web development using NodeJS, and ExpressJS
@@ -12,7 +17,7 @@
 - 😄 Pronouns: He/Him
 
 <!-- 
-### 🛠 &nbsp;Tech Stack
+#### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -32,7 +37,7 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; -->
 
 
-### ⚙️ &nbsp;GitHub Analytics
+#### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/nsaal4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nsaal4&theme=buefy&show_icons=true" />
