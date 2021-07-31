@@ -13,7 +13,6 @@
 - 👯 I’m looking to collaborate on software development projects and basic web dev stuff
 - 🤔 I’m looking for help with UI/UX design
 - 💬 Ask me about full stack development, data analysis, and any tech-related stuff
-<!-- - 📫 How to reach me:  -->
 - 😄 Pronouns: He/Him
 
 <!-- 
