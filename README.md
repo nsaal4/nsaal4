@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="250" src="http://www.progarchives.com/forum/uploads/7615/eipi.jpg">
+  <img width="200" height="200" src="http://www.progarchives.com/forum/uploads/7615/eipi.jpg">
 </p>
 
 
