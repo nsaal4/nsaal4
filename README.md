@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img width="250" height="250" src="http://www.progarchives.com/forum/uploads/7615/eipi.jpg">
 </p>
 
@@ -8,12 +8,12 @@
 
 #### 👨🏻‍💻 &nbsp;About Me
 
-<!-- - 🔭 I’m currently working on personal projects -->
+- 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning backend web development using NodeJS, and ExpressJS
 - 👯 I’m looking to collaborate on software development projects and basic web dev stuff
 - 🤔 I’m looking for help with UI/UX design
 - 💬 Ask me about full stack development, data analysis, and any tech-related stuff
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him -->
 
 
 <!-- #### 🛠 &nbsp;Tech Stack
@@ -34,9 +34,9 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; -->
 
 
-#### ⚙️ &nbsp;GitHub Analytics
+<!-- #### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/nsaal4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nsaal4&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsaal4&theme=buefy&layout=compact" />
-</a>
+</a> -->
